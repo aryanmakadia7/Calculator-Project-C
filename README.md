@@ -1,5 +1,9 @@
 # Simple Calculator in C
 
+## 🚀 Live Demo
+
+[Open Calculator](https://calculator-project-c-9egfhksezm45xbgdhmzmpb.streamlit.app/)
+
 A simple menu-driven calculator developed in C.
 
 ## Features
